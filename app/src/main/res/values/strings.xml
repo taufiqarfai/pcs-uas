@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UAS PCS</string>
+    <string name="search">Cari</string>
+
+    <string name="tab1">Penggikut</string>
+    <string name="tab2">Menggikuti</string>
+    <string name="search_hint">Cari Disini</string>
+    <string name="not_found">Username Tidak Ditemukan</string>
+
+</resources>

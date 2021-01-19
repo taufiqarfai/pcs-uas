@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UAS PCS</string>
+    <string name="search">Cari</string>
+    <string name="tab1">Pengikut</string>
+    <string name="tab2">Mengikuti</string>
+    <string name="search_hint">Cari di sini</string>
+    <string name="not_found">Username tidak dapat ditemukan</string>
+</resources>
